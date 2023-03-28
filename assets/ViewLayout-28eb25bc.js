@@ -1,0 +1,1 @@
+import{_ as t,o,e as a,a as s,q as c}from"./index-6001ed37.js";const n={},_={class:"view_layout","data-testid":"view_layout"},i={class:"view_layout__container","data-testid":"view_layout__container"};function r(e,d){return o(),a("div",_,[s("section",i,[c(e.$slots,"content")])])}const u=t(n,[["render",r]]);export{u as V};
